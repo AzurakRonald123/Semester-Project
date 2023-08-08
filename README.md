@@ -1,5 +1,5 @@
 # Semester-Project
-Azurak Ronald
-UEB3219122
-ITD
-Text Base Adventure Game
+Name:Azurak Ronald
+Index Number: UEB3219122
+Class: ITD
+Project Name: Text Base Adventure Game
